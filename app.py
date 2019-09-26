@@ -21,7 +21,7 @@ app = Flask(__name__)
 CORS(app)
 basedir = os.path.abspath(os.path.dirname(__file__))
 
-# Database
+# Here i have used PostgreSQL database
 
 app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres:pg1234@localhost/home_credit_dev'
 
