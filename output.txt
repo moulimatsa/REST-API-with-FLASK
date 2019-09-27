@@ -1,0 +1,17 @@
+ { 
+	"name": " something ",
+	"email": "hkfnfkger.pm@gmail.com",
+        "employed": "2018-07-12",
+        "familyMembersCount": "8",
+        "familyStatus": "Unknown",
+        "gender": "male",
+        "incomeType": "Working",
+        "mobile": "6835064766",
+        "occupationType": "Managers",
+        "ownCar": "Yes",
+        "ownCarAge": "2",
+        "address": "63/A, Himmat Nagar",
+        "child": "2",
+        "dob": "1989-07-10",
+        "educationType": "MCA"
+ }
