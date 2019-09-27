@@ -24,4 +24,6 @@ Python
 
 # Problems Encountered
 
-1) To connect to other systems i got a problem at the begining and then i have used CORRS to connect.
+1) To connect to other systems i got a problem at the begining and then i have used CORS to connect as it works like cross platform.
+2) To run it on server i have used host = '0.0.0.0' instead of their host address.
+
